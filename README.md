@@ -1,4 +1,4 @@
-# UBI-Model
+# UBI-Model: see link https://github.com/Aleida24/UBI-Model
 This is a simple model of a potential UBI system within the context of the existing U.S. welfare system created for a final project in Computational Social Science (a graduate course in Python at New York University). 
 
 See the main two code chunks (labeled part 1 and part 2) for more background and context. 
